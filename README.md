@@ -1,2 +1,3 @@
 # test
-Learn how tu use the github
+Learn how to use the github
+Try to create a new branch
